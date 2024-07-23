@@ -1,2 +1,2 @@
-FROM: redis:5
-MAINTAINER: Q
+FROM redis:5
+MAINTAINER Q
